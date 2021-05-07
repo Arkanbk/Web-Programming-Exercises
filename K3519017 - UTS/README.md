@@ -7,22 +7,22 @@ Pada project ini, saya membuat sebuag game matematika penjumlahan. Dimana untuk 
 <br>
 
 # Tampilan Awal Website
-![](images/1.png)
+![](Image/1.png)
 
 # Tampilan Awal Game
-![](images/3.png)
+![](Image/6.png)
 
 # Tampilan Masuk Ketika Keluar Tanpa Logout
-![](images/3.png)
+![](Image/5.png)
 
 # Tampilan Ketika Menjawab Dengan Salah
-![](images/4.png)
+![](Image/3.png)
 
 # Tampilan Ketika Menjawab Dengan Benar
-![](images/5.png)
+![](Image/2.png)
 
 # Tampilan Ketika Nyawa Sudah Mencapai 0 dan Tabel Ranking 10 teratas
-![](images/6.png)
+![](Image/4.png)
 
 <br>
 
