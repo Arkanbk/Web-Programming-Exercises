@@ -6,24 +6,4 @@ Pada project ini, saya membuat sebuag game matematika penjumlahan. Dimana untuk 
 </p>
 <br>
 
-# Tampilan Awal Website
-![](Image/1.png)
-
-# Tampilan Awal Game
-![](Image/6.png)
-
-# Tampilan Masuk Ketika Keluar Tanpa Logout
-![](Image/5.png)
-
-# Tampilan Ketika Menjawab Dengan Salah
-![](Image/3.png)
-
-# Tampilan Ketika Menjawab Dengan Benar
-![](Image/2.png)
-
-# Tampilan Ketika Nyawa Sudah Mencapai 0 dan Tabel Ranking 10 teratas
-![](Image/4.png)
-
-<br>
-
 ## Link Website : http://arkanbk7869.epizy.com/
